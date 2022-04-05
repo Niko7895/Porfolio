@@ -94,7 +94,7 @@
         <div class="Experience">
           <h1>Expériences</h1>
         </br>
-          <div class="projet1">
+          <div class="projet">
             <h3>Alternant</h3>
             <h4>Ileps - Septembre 2021 à Juillet 2022</h4>
             <ul>
@@ -104,7 +104,7 @@
             </ul>
           </div>
         </br>
-          <div class="projet2">
+          <div class="projet">
             <h3>Stagiaire</h3>
             <h4>Carglass - Mai 2021 à juillet 2021</h4>
             <ul>
@@ -114,7 +114,7 @@
             </ul>
           </div>
         </br>
-          <div class="projet3">
+          <div class="projet">
             <h3>Projet d'études</h3>
             <h4>IPSSI - Depuis octobre 2020</h4>
             <ul>
@@ -127,17 +127,19 @@
         <div class="Formation">
             <h1>Formation</h1>
             <div class="formation-colonnes">
-              <div class="formation1">
+              <div class="formation">
                 <h3>BTS SIO option SLAM</h3>
                   <h4>IPSSI</h4>
                     <p>Depuis octobre 2020</p>
+                    <p>___________________</p>
               </div>
-              <div class="formation2">
+              <div class="formation">
                 <h3>Prépa Maths Sup</h3>
                   <h4>Lycée Camille Pissaro</h4>
                     <p>Septembre 2019 à juillet 2020</p>
+                    <p>___________________</p>
               </div>
-              <div class="formation3">
+              <div class="formation">
                 <h3>Baccalauréat S option SVT</h3>
                   <h4>Lycée Alfred Kastler</h4>
                     <p>Septembre 2018 à juillet 2019</br> 
@@ -148,21 +150,28 @@
         <div class="CentredInteret">
           <h1>Centres d'Intérêt</h1>
           <div class="centreinteret-colonnes">
-              <div class="centre1">
+              <div class="centre">
                 <h2>Programmation</h2>
                   <h3>Open Classroom</h3>
+                    <p>___________________</p>
               </div>
-              <div class="centre2">
+              <div class="centre">
                 <h2>Jeux vidéo</h2>
                   <h3>Aventure, Plateforme</h3>
                   <h3>Aventure</h3>
+                  <p>___________________</p>
               </div>
-              <div class="centre3">
+              <div class="centre">
                 <h2>Sport</h2>
                   <h3>Kick Boxing en club pendant 2 ans</h3>
                   <h3>Capoera en club pendant 4 ans</h3>
               </div>
            </div>
+        </div>
+        <div class="download">
+          <h1>Téléchargez mon CV</h1>
+          <a href="CSS/images/chalumeau-nicolas-cv.pdf" download>
+	        <img src="CSS/images/chalumeau-nicolas-cv.png" class="imageCV"></a>
         </div>
     </section>
 

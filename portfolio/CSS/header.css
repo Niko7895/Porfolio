@@ -17,6 +17,8 @@ body {
 .TopMenu>a {
     width: 25%;
     text-align: center;
+    color: white;
+    text-underline-offset: none;
     
 }
 
