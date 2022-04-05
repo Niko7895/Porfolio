@@ -53,7 +53,7 @@
               </div>
               <div class="items">
                 <img src="CSS\images\Php.png" alt="" class="logo-items">
-                <h3>PHP7</h3>
+                <h3>PHP8</h3>
               </div>
             </div>
             <h2>Logiciels</h2>
