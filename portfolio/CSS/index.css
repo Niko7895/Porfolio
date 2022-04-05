@@ -1,6 +1,6 @@
 body {
     background: #333;
-    background-size: fill;    
+    background-size: cover;    
     background-repeat: no-repeat;
     background-image: url(images/fondPortfolio.jpg);
     background-position: right top;

@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    
+    <?php
     include("header.php");
-    
+    ?>
     <div class="lignes">
       <div class="l1"></div>
       <div class="l2"></div>
