@@ -91,8 +91,31 @@
                 <p>___________________</p>
                 <a href=""><h3>Voir le code source</h3></a>
               </div>
+        </div>
+        <div class="projetsDiv">
+            <h1>Projet n°4</h1>
+            <h2>Portfolio</h2>
               <div>
-                
+                <img src="CSS/images/imgPortfolio.png" alt="" class="preview">
+              </div>
+              <div>
+                <h3>Description</h3>
+                <p class="description">J’ai développé ce site dans le cadre d’une épreuve du BTS</br>
+                   où il est nécessaire de posséder un Portfolio accessible en ligne.</br></br>
+                  Ce site est codé en HTML, CSS, PHP pour le header et du JavaScript pour la page de garde.</br>
+                  Mon portfolio se compose de 4 pages distinctes :</br>
+                  <ul class="listeprojet">
+                    <li>La page de garde.</li>
+                    <li>La page CV, où toutes les informations importantes de mon CV y sont regroupées.</li>
+                    <li>La page Projets, qui permet d’afficher mes projets effectués au cours de mes 2 années de BTS.</li>
+                    <li>La page Veilles, qui permet de montrer les veilles que j’ai pu effectuer.</li>
+                  </ul>
+                  Ces quatre pages montrent ce que j’ai pu accomplir durant mes 2 années de BTS SIO option SLAM.</p>
+</p>
+                <p>___________________</p>
+                <a href=""><h3>Accéder au site</h3></a>
+                <p>___________________</p>
+                <a href="https://github.com/Niko7895/Portfolio" target="_blank"><h3>Voir le code source</h3></a>
               </div>
         </div>
     </section>

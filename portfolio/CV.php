@@ -14,8 +14,8 @@
     include("header.php");
     ?>
     <section>
-        <div>
-            <img src="" alt="">
+        <div class="divimgpro">
+            <img src="CSS/images/imgprofil.jpg" alt="" class="imgpro">
         </div>
         <div>
           <h1>
