@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="CSS/Projet.css">
   
     <script>
-     
+
     </script>
   </head>
   <body>
@@ -19,7 +19,7 @@
             <div>
               <h2>CityGame</h2>
               <div>
-                <img src="" alt="">
+                <img class="preview" src="CSS/images/imgPPE1.png" alt="">
               </div>
               <div>
                 <h3>Description</h3>
@@ -33,9 +33,9 @@
                 Enfin nous pouvons accéder à notre compte pour voir notre historique de commande et
                   télécharger les factures.</p>
                 <p>___________________</p>
-                <a href=""><h3>Accéder au site</h3></a>
+                <a href="" target="_blank"><h3>Accéder au site</h3></a>
                 <p>___________________</p>
-                <a href=""><h3>Voir le code source</h3></a>
+                <a href="https://github.com/lulu960/PPE1_Citygame" target="_blank"><h3>Voir le code source</h3></a>
               </div>
               <div>
 
@@ -46,7 +46,7 @@
             <h1>Projet n°2</h1>
             <h2>Salle de Marché</h2>
               <div>
-                <img src="" alt="">
+                <img class="preview" src="CSS/images/imgSDM.png" alt="">
               </div>
               <div>
                 <h3>Description</h3>
@@ -61,16 +61,14 @@
                      la limite d’argent.</br>
                     </p>
                 <p>___________________</p>
-                <a href=""><h3>Accéder au site</h3></a>
-                <p>___________________</p>
-                <a href=""><h3>Voir le code source</h3></a>
+                <a href="https://github.com/lulu960/PPE_Return" target="_blank"><h3>Voir le code source</h3></a>
               </div>
         </div>
         <div class="projetsDiv">
             <h1>Projet n°3</h1>
             <h2>Appli vitrine</h2>
               <div>
-                <img src="" alt="">
+                <img class="preview" src="CSS/images/imgAPPVI" alt="">
               </div>
               <div>
                 <h3>Description</h3>
@@ -87,9 +85,10 @@
                    guise de support numérique lors de leur présentation.</br>
                   </p>
                 <p>___________________</p>
-                <a href=""><h3>Accéder au site</h3></a>
-                <p>___________________</p>
-                <a href=""><h3>Voir le code source</h3></a>
+                <div class="accès">
+                  <button class="clicker" tabindex="1">Voir le QR Code</button>
+                  <img class="hiddendiv" class="preview" src="CSS/images/imgPortfolio.png" alt="">
+                </div>
               </div>
         </div>
         <div class="projetsDiv">
@@ -112,8 +111,6 @@
                   </ul>
                   Ces quatre pages montrent ce que j’ai pu accomplir durant mes 2 années de BTS SIO option SLAM.</p>
 </p>
-                <p>___________________</p>
-                <a href=""><h3>Accéder au site</h3></a>
                 <p>___________________</p>
                 <a href="https://github.com/Niko7895/Portfolio" target="_blank"><h3>Voir le code source</h3></a>
               </div>
