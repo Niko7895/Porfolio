@@ -52,9 +52,9 @@
         <div class="veillesDiv">
           <h1>Veille n°3</h1>
           <div>
-            <h2>le langage Python</h2>
+            <h2>Le langage Python</h2>
             <div>
-              <img class="preview" src="CSS/images/imgIA.png" alt="">
+              <img class="preview" src="CSS/images/imgPython.jpg" alt="">
             </div>
             <div>
               <h3>Description</h3>
