@@ -19,8 +19,6 @@
               <img class="preview" src="CSS/images/imgIA.png" alt="">
             </div>
             <div>
-              <h3>Description</h3>
-              <p class="description"></p>
               <p>___________________</p>
               <a href="CSS/veilles/veille-IA.pdf" download><h3>Télécharger la veille</h3></a>
               <p>___________________</p>
@@ -38,8 +36,6 @@
               <img class="preview" src="CSS/images/imgTPS.png" alt="">
             </div>
             <div>
-              <h3>Description</h3>
-              <p class="description"></p>
               <p>___________________</p>
               <a href="CSS/veilles/veille-performances-site.pdf" download><h3>Télécharger la veille</h3></a>
               <p>___________________</p>
@@ -57,12 +53,10 @@
               <img class="preview" src="CSS/images/imgPython.jpg" alt="">
             </div>
             <div>
-              <h3>Description</h3>
-              <p class="description"></p>
               <p>___________________</p>
-              <a href="CSS/veilles/veille-IA.pdf" download><h3>Télécharger la veille</h3></a>
+              <a href="CSS/veilles/veille-Python.pdf" download><h3>Télécharger la veille</h3></a>
               <p>___________________</p>
-              <a href="CSS/veilles/presentation-veille-IA.pdf" target="blank"><h3>Voir la présentation</h3></a>
+              <a href="CSS/veilles/presentation-veille-Python.pdf" target="blank"><h3>Voir la présentation</h3></a>
             </div>
             <div>
             </div>

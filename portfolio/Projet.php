@@ -87,7 +87,7 @@
                 <p>___________________</p>
                 <div class="accès">
                   <button class="clicker" tabindex="1">Voir le QR Code</button>
-                  <img class="hiddendiv" class="preview" src="CSS/images/imgPortfolio.png" alt="">
+                  <img class="hiddendiv" class="preview" src="CSS/images/QRCodeApp.jpg" alt="">
                 </div>
               </div>
         </div>
