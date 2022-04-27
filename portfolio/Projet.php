@@ -36,6 +36,8 @@
                 <a href="" target="_blank"><h3>Accéder au site</h3></a>
                 <p>___________________</p>
                 <a href="https://github.com/lulu960/PPE1_Citygame" target="_blank"><h3>Voir le code source</h3></a>
+                <p>___________________</p>
+                <a class="blanc" href="CSS/CHALUMEAU_Nicolas-CityGame E5.pdf" target="_blank"><h3>Consulter la fiche E5 de ce projet</h3></a>
               </div>
               <div>
 
@@ -62,6 +64,10 @@
                     </p>
                 <p>___________________</p>
                 <a href="https://github.com/lulu960/PPE_Return" target="_blank"><h3>Voir le code source</h3></a>
+                <p>___________________</p>
+                <a class="blanc" href="CSS/CHALUMEAU_Nicolas-Salledemarche E5
+                .pdf" target="_blank"><h3>Consulter la fiche E5 de ce projet</h3></a>
+
               </div>
         </div>
         <div class="projetsDiv">

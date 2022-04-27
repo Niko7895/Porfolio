@@ -172,7 +172,7 @@
           <h1>Téléchargez mon CV</h1>
           <a href="CSS/images/chalumeau-nicolas-cv.pdf" download>
 	        <img src="CSS/images/chalumeau-nicolas-cv.png" class="imageCV"></a>
-          <a href="CSS/CHALUMEAU_Nicolas-Tableau E4.pdf" target="_blank">Voir la fiche E5 de ce projet</a>
+          <a class="blanc" href="CSS/CHALUMEAU_Nicolas-Tableau E4.pdf" target="_blank">Consulter mon tableau de synthèse E4</a>
         </div>
     </section>
 
